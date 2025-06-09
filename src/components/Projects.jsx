@@ -12,11 +12,11 @@ export default function Projects() {
             <div className="flex space-x-4">
               {liveUrl && (
                 <a href={liveUrl} target="_blank" rel="noopener" className="underline">
-                  Live Demo
+                  Project Link
                 </a>
               )}
               <a href={repoUrl} target="_blank" rel="noopener" className="underline">
-                GitHub
+                Source Code
               </a>
             </div>
           </div>
