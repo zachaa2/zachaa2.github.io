@@ -15,5 +15,11 @@ export const projects = [
       description: 'A Differentially Private Blockchain-Based Federated Learning Algorithm',
       repoUrl: 'https://github.com/AI-and-Blockchain/F23_HealthFederated',
       liveUrl: 'https://arxiv.org/abs/2407.07054',
-    }
+    },
+    {
+      title: "asteroid-shooter",
+      description: "An arcade-style asteroid shooter game written using the KaplayJS engine. Click the project link to play!",
+      repoUrl: "https://github.com/zachaa2/asteroid-shooter",
+      liveUrl: "https://zachaa2.github.io/asteroid-shooter/",
+    },
   ];
